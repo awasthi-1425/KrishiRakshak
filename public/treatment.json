@@ -1,0 +1,654 @@
+{
+    "Apple___Apple_scab": {
+        "description": "A common fungal disease of apple trees that causes dark, scabby spots on leaves and fruit.",
+        "steps": [
+            "Prune trees to improve air circulation and sunlight penetration.",
+            "Rake and destroy fallen leaves in autumn to reduce spore survival.",
+            "Apply urea to fallen leaves to accelerate decomposition of infected tissue.",
+            "Use resistant varieties like Liberty, Enterprise, or Pristine.",
+            "Follow a preventative fungicide spray schedule, especially during wet spring weather."
+        ],
+        "fertilizer": {
+            "recommendation": "Apply a balanced fertilizer in early spring to support tree vigor. Avoid excessive nitrogen, which promotes lush growth susceptible to infection.",
+            "products": ["10-10-10 (balanced NPK)", "Compost", "Aged manure"]
+        },
+        "irrigation": "Water at the base of the tree using drip irrigation to keep foliage dry. Ensure deep watering during dry spells, especially from bloom to harvest.",
+        "pest_control": {
+            "pesticides": ["Myclobutanil", "Captan", "Sulfur", "Liquid copper fungicide"],
+            "insecticides": ["Not applicable for this fungal disease."]
+        }
+    },
+    "Apple___Black_rot": {
+        "description": "A fungal disease that can cause leaf spots, fruit rot, and cankers on apple trees.",
+        "steps": [
+            "Prune out and destroy all cankered and dead branches during dormancy.",
+            "Remove mummified (dried, shriveled) fruits from trees and the ground.",
+            "Practice proper sanitation by removing all plant debris.",
+            "Maintain tree health with proper watering and feeding to reduce stress."
+        ],
+        "fertilizer": {
+            "recommendation": "Maintain balanced nutrition with a soil test. High potassium levels can help with disease resistance.",
+            "products": ["Potassium sulfate", "Balanced 10-10-10 fertilizer"]
+        },
+        "irrigation": "Avoid overhead watering. Use drip irrigation to keep the trunk and leaves dry. Water deeply and infrequently.",
+        "pest_control": {
+            "pesticides": ["Thiophanate-methyl", "Captan", "Copper-based sprays (during dormancy)"],
+            "insecticides": ["Not applicable for this fungal disease."]
+        }
+    },
+    "Apple___Cedar_apple_rust": {
+        "description": "A fungal disease that requires both an apple and a juniper (cedar) to complete its life cycle, causing bright orange spots.",
+        "steps": [
+            "Remove nearby eastern red cedar trees if possible (alternate host).",
+            "Plant resistant apple varieties like Liberty, William's Pride, or Freedom.",
+            "Apply protective fungicide sprays starting at the pink bud stage.",
+            "Monitor nearby cedar trees for orange, gelatinous galls in the spring."
+        ],
+        "fertilizer": {
+            "recommendation": "A healthy, well-fed tree is less susceptible. Apply a balanced fertilizer in the spring.",
+            "products": ["10-10-10 granular fertilizer", "Fruit tree-specific fertilizer spikes"]
+        },
+        "irrigation": "Water at the base of the tree. Keeping leaves dry is critical to prevent fungal spore germination.",
+        "pest_control": {
+            "pesticides": ["Myclobutanil", "Fenarimol", "Sulfur", "Neem oil (preventative)"],
+            "insecticides": ["Not applicable for this fungal disease."]
+        }
+    },
+    "Apple___healthy": {
+        "description": "The apple plant appears to be healthy. The following are general care recommendations.",
+        "steps": [
+            "Prune annually during dormancy to maintain good air circulation and an open structure.",
+            "Monitor regularly for early signs of pests or diseases.",
+            "Use organic mulch to conserve moisture and suppress weeds.",
+            "Thin fruit to one apple per cluster to promote larger, healthier fruit."
+        ],
+        "fertilizer": {
+            "recommendation": "Apply a balanced fertilizer in early spring before new growth begins. Base application rates on tree age and size.",
+            "products": ["10-10-10 or 14-14-14 granular fertilizer", "Well-rotted compost"]
+        },
+        "irrigation": "Water deeply once a week during the growing season, providing 1-2 inches of water. Use a soaker hose or drip irrigation.",
+        "pest_control": {
+            "pesticides": ["Dormant oil spray (late winter) to control overwintering pests.", "Neem oil for general prevention."],
+            "insecticides": ["Insecticidal soap for aphids", "Spinosad for codling moth"]
+        }
+    },
+    "Blueberry___healthy": {
+        "description": "The blueberry plant appears to be healthy. The following are general care recommendations.",
+        "steps": [
+            "Test soil and maintain an acidic pH (4.5-5.5) using soil acidifiers if necessary.",
+            "Use pine needle or oak leaf mulch to help maintain acidity and conserve moisture.",
+            "Prune older canes during dormancy to encourage vigorous new growth.",
+            "Protect bushes from birds with netting as fruit ripens."
+        ],
+        "fertilizer": {
+            "recommendation": "Use fertilizers formulated for acid-loving plants. Apply once in early spring and again after fruit has set.",
+            "products": ["Ammonium sulfate", "Rhododendron/Azalea fertilizer", "Cottonseed meal (organic)"]
+        },
+        "irrigation": "Blueberries have shallow roots and require consistent moisture. Provide 1-2 inches of water per week using drip irrigation.",
+        "pest_control": {
+            "pesticides": ["Sulfur sprays can help prevent fungal issues."],
+            "insecticides": ["Spinosad for fruit worms", "Neem oil for aphids and other soft-bodied insects."]
+        }
+    },
+    "Cherry_(including_sour)___Powdery_mildew": {
+        "description": "A fungal disease that appears as white powdery spots on leaves and shoots of cherry trees.",
+        "steps": [
+            "Prune to improve air circulation through the canopy, allowing leaves to dry faster.",
+            "Avoid excessive nitrogen fertilization, which promotes susceptible new growth.",
+            "Remove and destroy infected shoots and leaves.",
+            "Choose planting sites with good sun exposure and air movement."
+        ],
+        "fertilizer": {
+            "recommendation": "Use a low-nitrogen, high-potassium fertilizer to support fruit development without encouraging excessive leafy growth.",
+            "products": ["5-10-10 fertilizer", "Sulfate of potash"]
+        },
+        "irrigation": "Water at the base of the tree using a soaker hose or drip system. Avoid wetting the foliage.",
+        "pest_control": {
+            "pesticides": ["Sulfur", "Potassium bicarbonate", "Myclobutanil", "Triflumizole", "Horticultural oil (early season)"],
+            "insecticides": ["Not applicable for this fungal disease."]
+        }
+    },
+    "Cherry_(including_sour)___healthy": {
+        "description": "The cherry plant appears to be healthy. The following are general care recommendations.",
+        "steps": [
+            "Prune annually during dormancy to maintain an open, productive structure.",
+            "Use mulch to conserve moisture and regulate soil temperature.",
+            "Monitor for pests like cherry fruit fly and aphids.",
+            "Protect the trunk from sunscald in winter with tree wrap."
+        ],
+        "fertilizer": {
+            "recommendation": "Apply a balanced, low-nitrogen fertilizer in early spring.",
+            "products": ["10-10-10 granular fertilizer", "Compost"]
+        },
+        "irrigation": "Water deeply during dry periods, especially during fruit development to prevent fruit drop and cracking.",
+        "pest_control": {
+            "pesticides": ["Fixed copper spray during dormancy to prevent canker."],
+            "insecticides": ["Spinosad for cherry fruit fly", "Insecticidal soap for aphids."]
+        }
+    },
+    "Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot": {
+        "description": "A fungal disease of corn characterized by long, narrow, rectangular lesions on the leaves.",
+        "steps": [
+            "Use resistant corn hybrids when available.",
+            "Practice crop rotation with non-host crops like soybeans or wheat.",
+            "Plow under crop debris after harvest to reduce fungal inoculum.",
+            "Ensure proper plant spacing to improve air circulation and reduce humidity.",
+            "Scout fields regularly to monitor disease progression."
+        ],
+        "fertilizer": {
+            "recommendation": "Maintain balanced soil fertility, especially potassium levels, to enhance disease tolerance.",
+            "products": ["Starter fertilizer (e.g., 10-20-10)", "Sidedress Nitrogen (Urea or UAN)", "Potash (Potassium Chloride)"]
+        },
+        "irrigation": "Avoid overhead irrigation, which wets leaves and promotes disease. If using sprinklers, water in the morning so leaves dry quickly.",
+        "pest_control": {
+            "pesticides": ["Azoxystrobin", "Pyraclostrobin", "Propiconazole"],
+            "insecticides": ["Not applicable for this fungal disease."]
+        }
+    },
+    "Corn_(maize)___Common_rust": {
+        "description": "A fungal disease causing small, cinnamon-brown pustules on corn leaves.",
+        "steps": [
+            "Plant resistant hybrids adapted to your region; this is the primary management tool.",
+            "Time planting to avoid periods when peak spore production is likely.",
+            "Practice crop rotation to reduce disease carryover.",
+            "Maintain good air circulation through appropriate plant density."
+        ],
+        "fertilizer": {
+            "recommendation": "Adequate nutrition helps the plant tolerate infection. Follow recommendations from a soil test.",
+            "products": ["Balanced NPK fertilizer at planting", "Nitrogen sidedressing before the V8 stage."]
+        },
+        "irrigation": "Reduce leaf wetness duration by watering early in the day. Avoid overhead irrigation during cool, humid evenings.",
+        "pest_control": {
+            "pesticides": ["Triazole fungicides", "Strobilurin fungicides (e.g., Azoxystrobin, Pyraclostrobin)"],
+            "insecticides": ["Not applicable for this fungal disease."]
+        }
+    },
+    "Corn_(maize)___Northern_Leaf_Blight": {
+        "description": "A fungal disease of corn that produces long, elliptical, grayish-green or tan lesions on the leaves.",
+        "steps": [
+            "Use resistant corn hybrids with good tolerance ratings.",
+            "Plow under crop debris after harvest to reduce overwintering inoculum.",
+            "Practice crop rotation with non-host crops like soybeans or alfalfa.",
+            "Ensure proper plant spacing for good air circulation.",
+            "Scout fields regularly, especially during periods of high humidity and moderate temperatures."
+        ],
+        "fertilizer": {
+            "recommendation": "Ensure balanced nutrition, particularly adequate potassium, as it plays a role in disease resistance.",
+            "products": ["Starter fertilizer (e.g., 10-20-10)", "Sidedress with Nitrogen (e.g., Urea 46-0-0)", "Potash (Potassium Chloride)"]
+        },
+        "irrigation": "If irrigating, do so early in the day to allow leaves to dry quickly. Avoid late evening watering. Drip irrigation is preferable to overhead sprinklers.",
+        "pest_control": {
+            "pesticides": ["Propiconazole", "Azoxystrobin", "Pyraclostrobin"],
+            "insecticides": ["Not applicable for this fungal disease."]
+        }
+    },
+    "Corn_(maize)___healthy": {
+        "description": "The corn plant appears to be healthy. The following are general care recommendations.",
+        "steps": [
+            "Test soil and maintain pH between 6.0-6.8.",
+            "Use proper plant spacing (8-12 inches between plants) for optimal growth.",
+            "Control weeds, especially in the first 4-6 weeks, as they compete for nutrients and water.",
+            "Monitor for common pests like corn earworm and aphids.",
+            "Harvest when kernels are 'milky' for sweet corn."
+        ],
+        "fertilizer": {
+            "recommendation": "Corn is a heavy nitrogen feeder. Apply a starter fertilizer at planting, then sidedress with nitrogen when plants are 12-18 inches tall.",
+            "products": ["Starter 10-20-10", "Urea (46-0-0)", "Ammonium Nitrate"]
+        },
+        "irrigation": "Provide at least 1 inch of water per week, especially during the critical tasseling and silking stages.",
+        "pest_control": {
+            "pesticides": ["Preventative fungicides are typically not needed for healthy corn unless disease pressure is high."],
+            "insecticides": ["Spinosad for corn earworm (apply to silks)", "Neem oil for aphids."]
+        }
+    },
+    "Grape___Black_rot": {
+        "description": "A serious fungal disease of grapes that can rot the fruit and cause leaf spots.",
+        "steps": [
+            "Prune vines during dormancy to improve air circulation and sunlight penetration.",
+            "Remove and destroy mummified berries and infected canes.",
+            "Practice good sanitation throughout the season.",
+            "Use resistant grape varieties when available.",
+            "Follow a strict fungicide spray schedule from pre-bloom through berry development."
+        ],
+        "fertilizer": {
+            "recommendation": "Avoid excessive nitrogen, which creates a dense canopy. Ensure good potassium and magnesium levels.",
+            "products": ["Sulfate of Potash-Magnesia", "Balanced 10-10-10 in spring"]
+        },
+        "irrigation": "Use drip irrigation to deliver water directly to the soil. Keeping leaves, flowers, and fruit dry is essential.",
+        "pest_control": {
+            "pesticides": ["Mancozeb", "Captan", "Myclobutanil"],
+            "insecticides": ["Not applicable for this fungal disease."]
+        }
+    },
+    "Grape___Esca_(Black_Measles)": {
+        "description": "A complex fungal disease of grapevines that causes a variety of symptoms, including leaf spots and wood decay.",
+        "steps": [
+            "Prune out and destroy infected wood showing 'tiger-stripe' patterns.",
+            "Protect large pruning wounds with a sealant or fungicidal paint.",
+            "Avoid severe pruning that creates large wounds, which are entry points for the fungus.",
+            "Remove and destroy severely infected vines to prevent spread.",
+            "Maintain balanced fertilization to promote overall vine health."
+        ],
+        "fertilizer": {
+            "recommendation": "Focus on balanced nutrition to reduce plant stress, which can trigger symptoms.",
+            "products": ["Compost", "Balanced 10-10-10 fertilizer"]
+        },
+        "irrigation": "Provide consistent and deep watering to avoid drought stress, which can exacerbate the disease.",
+        "pest_control": {
+            "pesticides": ["No highly effective fungicides are available. Management relies on cultural practices. Some growers use lime sulfur or Trichoderma-based products on pruning wounds."],
+            "insecticides": ["Not applicable for this fungal disease."]
+        }
+    },
+    "Grape___Leaf_blight_(Isariopsis_Leaf_Spot)": {
+        "description": "A fungal disease causing angular, dark brown lesions on grape leaves, which can lead to defoliation.",
+        "steps": [
+            "Prune to improve air circulation through the canopy.",
+            "Remove and destroy infected leaves and canes at the end of the season.",
+            "Ensure good weed control around the base of vines.",
+            "Start a protective fungicide program early in the season."
+        ],
+        "fertilizer": {
+            "recommendation": "A balanced nutrient supply helps vines tolerate minor infections.",
+            "products": ["10-10-10 fertilizer", "Grape-specific fertilizer blends"]
+        },
+        "irrigation": "Avoid overhead irrigation to reduce leaf wetness. Water at the soil level.",
+        "pest_control": {
+            "pesticides": ["Copper-based fungicides", "Mancozeb", "Chlorothalonil"],
+            "insecticides": ["Not applicable for this fungal disease."]
+        }
+    },
+    "Grape___healthy": {
+        "description": "The grape vine appears to be healthy. The following are general care recommendations.",
+        "steps": [
+            "Prune annually during dormancy to maintain proper vine structure and balance fruit production.",
+            "Train vines on a trellis for good air circulation and sun exposure.",
+            "Use cover crops between rows to improve soil health and prevent erosion.",
+            "Monitor for common pests like Japanese beetles and grape berry moth."
+        ],
+        "fertilizer": {
+            "recommendation": "Apply a balanced fertilizer in the spring based on a soil test. Grapes do not require heavy feeding.",
+            "products": ["Balanced 10-10-10", "Compost"]
+        },
+        "irrigation": "Water deeply during drought, especially from bloom until the berries begin to change color (veraison). Reduce water as harvest approaches to concentrate sugars.",
+        "pest_control": {
+            "pesticides": ["Sulfur for powdery mildew prevention.", "Dormant oil spray."],
+            "insecticides": ["Kaolin clay for Japanese beetles", "Spinosad for grape berry moth."]
+        }
+    },
+    "Orange___Haunglongbing_(Citrus_greening)": {
+        "description": "A devastating bacterial disease of citrus trees, spread by the Asian citrus psyllid, leading to yellow shoots and bitter fruit.",
+        "steps": [
+            "Remove and destroy infected trees immediately to prevent spread to healthy trees.",
+            "Plant new trees only from certified disease-free nursery sources.",
+            "Implement area-wide management programs for the psyllid vector.",
+            "Use reflective mulches to deter the psyllid.",
+            "Support tree health with enhanced nutritional programs."
+        ],
+        "fertilizer": {
+            "recommendation": "Infected trees benefit from enhanced nutritional foliar sprays containing micronutrients like zinc, manganese, and iron to manage symptoms.",
+            "products": ["Citrus-specific fertilizer with micronutrients", "Foliar sprays of zinc sulfate and manganese sulfate"]
+        },
+        "irrigation": "Provide consistent water to avoid drought stress, which can worsen symptoms.",
+        "pest_control": {
+            "pesticides": ["No direct bactericide is effective. Control relies on managing the insect vector."],
+            "insecticides": ["Systemic insecticides like Imidacloprid", "Horticultural oil sprays", "Spinosad", "Biological controls like the Tamarixia radiata wasp."]
+        }
+    },
+    "Peach___Bacterial_spot": {
+        "description": "A bacterial disease causing dark, angular spots on peach leaves and fruit.",
+        "steps": [
+            "Use resistant varieties like Clayton, Scarlet Pearl, or Summer Pearl.",
+            "Practice good sanitation by removing and destroying fallen leaves and fruit.",
+            "Prune to improve air circulation and allow for faster drying of foliage.",
+            "Avoid working with trees when they are wet.",
+            "Maintain tree vigor with proper fertilization and watering."
+        ],
+        "fertilizer": {
+            "recommendation": "Avoid excessive nitrogen. Ensure adequate levels of calcium and potassium.",
+            "products": ["Low-nitrogen fertilizer (e.g., 5-10-15)", "Calcium nitrate"]
+        },
+        "irrigation": "Use drip irrigation to keep foliage dry. Water deeply during dry periods.",
+        "pest_control": {
+            "pesticides": ["Copper bactericides (applied during dormancy and before rain events)", "Oxytetracycline (antibiotic spray)"],
+            "insecticides": ["Not applicable for this bacterial disease."]
+        }
+    },
+    "Peach___healthy": {
+        "description": "The peach tree appears to be healthy. The following are general care recommendations.",
+        "steps": [
+            "Prune annually during dormancy to maintain an open center (vase) shape for sunlight penetration.",
+            "Thin fruits to 6-8 inches apart when they are thumbnail-sized for proper size development.",
+            "Monitor for common pests like peach tree borers and oriental fruit moths.",
+            "Apply a dormant oil spray in late winter to smother overwintering insects and eggs."
+        ],
+        "fertilizer": {
+            "recommendation": "Apply a balanced fertilizer in early spring before bud break.",
+            "products": ["10-10-10 granular fertilizer", "Fruit tree-specific fertilizer"]
+        },
+        "irrigation": "Water deeply once a week during dry spells, especially during the final swell of the fruit before harvest.",
+        "pest_control": {
+            "pesticides": ["Fungicide sprays (e.g., Captan) for brown rot prevention starting a few weeks before harvest."],
+            "insecticides": ["Spinosad or Permethrin for oriental fruit moth and peach tree borer (trunk spray)."]
+        }
+    },
+    "Pepper,_bell___Bacterial_spot": {
+        "description": "A common bacterial disease of peppers causing water-soaked spots on leaves and raised, scabby spots on fruit.",
+        "steps": [
+            "Use certified disease-free seeds and transplants.",
+            "Practice crop rotation; do not plant peppers, tomatoes, or eggplants in the same spot for at least 3 years.",
+            "Remove and destroy infected plants and debris promptly.",
+            "Mulch plants to prevent water from splashing from the soil onto leaves.",
+            "Sanitize tools and hands after working with infected plants."
+        ],
+        "fertilizer": {
+            "recommendation": "Avoid high-nitrogen fertilizers. Ensure a good supply of calcium to promote healthy fruit.",
+            "products": ["5-10-10 fertilizer", "Calcium nitrate (sidedress)"]
+        },
+        "irrigation": "Use drip irrigation or soaker hoses to keep foliage dry. Water in the morning.",
+        "pest_control": {
+            "pesticides": ["Copper-based bactericides (use preventatively, often mixed with mancozeb)", "Actigard (plant activator)"],
+            "insecticides": ["Not applicable for this bacterial disease."]
+        }
+    },
+    "Pepper,_bell___healthy": {
+        "description": "The bell pepper plant appears to be healthy. The following are general care recommendations.",
+        "steps": [
+            "Use black plastic mulch to warm the soil, conserve moisture, and suppress weeds.",
+            "Support plants with stakes or cages to prevent branches from breaking under the weight of the fruit.",
+            "Harvest peppers regularly by cutting the stem (don't pull) to encourage continued production.",
+            "Rotate planting locations annually to prevent soil-borne disease buildup."
+        ],
+        "fertilizer": {
+            "recommendation": "Use a balanced fertilizer at planting. Sidedress with a fertilizer lower in nitrogen and higher in phosphorus and potassium once fruit begins to set.",
+            "products": ["10-10-10 at planting", "5-10-10 or liquid seaweed as a sidedress", "Epsom salt (for magnesium)"]
+        },
+        "irrigation": "Provide consistent moisture (1-2 inches per week), especially during flowering and fruit set, to prevent blossom drop.",
+        "pest_control": {
+            "pesticides": ["Neem oil can be used preventatively for fungal issues."],
+            "insecticides": ["Insecticidal soap for aphids", "Spinosad for thrips", "Bacillus thuringiensis (Bt) for caterpillars."]
+        }
+    },
+    "Potato___Early_blight": {
+        "description": "A fungal disease causing dark 'target-like' spots on potato leaves.",
+        "steps": [
+            "Use certified resistant varieties when available.",
+            "Practice crop rotation with non-host crops for 3-4 years.",
+            "Maintain adequate potassium levels in the soil to reduce susceptibility.",
+            "Remove and destroy infected plant debris after harvest.",
+            "Begin a preventative fungicide program before symptoms appear."
+        ],
+        "fertilizer": {
+            "recommendation": "Ensure adequate potassium (K) levels, as deficiency can increase severity. Avoid excessive nitrogen.",
+            "products": ["Low-nitrogen, high-potassium fertilizer", "Sulfate of Potash"]
+        },
+        "irrigation": "Use drip irrigation to keep foliage dry. If using sprinklers, water in the early morning so leaves dry quickly.",
+        "pest_control": {
+            "pesticides": ["Chlorothalonil", "Mancozeb", "Copper-based fungicides"],
+            "insecticides": ["Not directly applicable, but managing pests like Colorado potato beetles reduces overall plant stress."]
+        }
+    },
+    "Potato___Late_blight": {
+        "description": "A destructive fungal disease that can rapidly destroy potato leaves, stems, and tubers.",
+        "steps": [
+            "Use certified disease-free seed potatoes and resistant varieties like Defender or Kennebec.",
+            "Destroy cull piles and volunteer potatoes where the disease can overwinter.",
+            "Hill potatoes properly to create a soil barrier protecting tubers from spores.",
+            "Remove and destroy infected plants immediately.",
+            "Monitor weather conditions and apply preventative sprays before periods of cool, wet weather."
+        ],
+        "fertilizer": {
+            "recommendation": "Provide balanced fertility. Avoid excessive late-season nitrogen which can delay tuber maturity and increase susceptibility.",
+            "products": ["10-10-10 at planting", "Sulfate of Potash"]
+        },
+        "irrigation": "Avoid overhead irrigation, especially in the evening. Water at the soil level to keep foliage dry. Ensure good soil drainage.",
+        "pest_control": {
+            "pesticides": ["Mancozeb", "Chlorothalonil", "Copper hydroxide", "Cymoxanil"],
+            "insecticides": ["Not directly applicable, but control pests like aphids that can weaken the plant."]
+        }
+    },
+    "Potato___healthy": {
+        "description": "The potato plant appears to be healthy. The following are general care recommendations.",
+        "steps": [
+            "Hill soil around plants as they grow to protect developing tubers from sunlight (which turns them green).",
+            "Use certified disease-free seed potatoes to avoid introducing diseases.",
+            "Practice crop rotation with non-host crops (e.g., legumes, grains).",
+            "Harvest after vines have died back completely for the best storage quality.",
+            "Control weeds to reduce competition for resources."
+        ],
+        "fertilizer": {
+            "recommendation": "Work a balanced fertilizer into the soil at planting time.",
+            "products": ["10-10-10 or 8-16-16 granular fertilizer", "Bone meal", "Compost"]
+        },
+        "irrigation": "Provide consistent moisture, especially during tuber formation. Aim for 1-2 inches of water per week.",
+        "pest_control": {
+            "pesticides": ["Preventative copper or sulfur sprays can be used if disease pressure is high in your area."],
+            "insecticides": ["Neem oil for aphids and flea beetles", "Spinosad or Bt for Colorado potato beetle larvae."]
+        }
+    },
+    "Raspberry___healthy": {
+        "description": "The raspberry plant appears to be healthy. The following are general care recommendations.",
+        "steps": [
+            "Prune canes annually. For summer-bearing types, remove canes that fruited immediately after harvest. For everbearing types, prune the tops after the fall harvest.",
+            "Train canes on a trellis to improve air circulation and make harvesting easier.",
+            "Mulch with organic material to conserve moisture, suppress weeds, and add organic matter.",
+            "Remove any suckers that grow too far from the main row."
+        ],
+        "fertilizer": {
+            "recommendation": "Apply a balanced fertilizer in the early spring as new growth begins.",
+            "products": ["10-10-10 granular fertilizer", "Well-rotted manure or compost"]
+        },
+        "irrigation": "Provide about 1 inch of water per week, especially during flowering and fruit development. Use drip irrigation to keep canes and leaves dry.",
+        "pest_control": {
+            "pesticides": ["Lime sulfur spray during dormancy can help prevent fungal diseases like anthracnose."],
+            "insecticides": ["Neem oil for aphids and spider mites", "Pyrethrin for Japanese beetles."]
+        }
+    },
+    "Soybean___healthy": {
+        "description": "The soybean plant appears to be healthy. The following are general care recommendations.",
+        "steps": [
+            "Inoculate seeds with the correct strain of Bradyrhizobium japonicum bacteria for proper nitrogen fixation, especially if soybeans have not been grown in the field before.",
+            "Test soil and maintain a pH between 6.0 and 6.8 for optimal nutrient uptake.",
+            "Use proper planting depth (1 to 1.5 inches) in moist soil for good emergence.",
+            "Practice crop rotation with non-legume crops like corn or wheat.",
+            "Scout for pests and diseases regularly throughout the growing season."
+        ],
+        "fertilizer": {
+            "recommendation": "Soybeans are legumes and fix their own nitrogen. Fertilizer needs are mainly for phosphorus (P) and potassium (K). Base application on a soil test.",
+            "products": ["MAP (11-52-0)", "DAP (18-46-0)", "Potash (0-0-60)"]
+        },
+        "irrigation": "Water is most critical during the flowering and pod-fill stages. Avoid drought stress during these periods to maximize yield.",
+        "pest_control": {
+            "pesticides": ["Fungicides (e.g., Pyraclostrobin) may be warranted if disease pressure is high during pod-fill stages."],
+            "insecticides": ["Lambda-cyhalothrin for bean leaf beetles", "Bifenthrin for soybean aphids."]
+        }
+    },
+    "Squash___Powdery_mildew": {
+        "description": "A common fungal disease of squash that appears as white powdery spots on leaves and stems.",
+        "steps": [
+            "Use resistant varieties whenever possible.",
+            "Provide adequate spacing between plants to ensure good air circulation.",
+            "Remove and destroy heavily infected leaves and plant debris.",
+            "Plant in a sunny location.",
+            "Apply fungicides at the first sign of disease."
+        ],
+        "fertilizer": {
+            "recommendation": "Avoid excessive nitrogen fertilizer, which produces dense, susceptible foliage. Ensure good potassium levels.",
+            "products": ["5-10-10 fertilizer", "Compost"]
+        },
+        "irrigation": "Water the soil, not the leaves. Use drip irrigation or a soaker hose. Water in the morning.",
+        "pest_control": {
+            "pesticides": ["Myclobutanil", "Triflumizole", "Sulfur", "Potassium bicarbonate", "Neem oil (organic)"],
+            "insecticides": ["Not applicable for this fungal disease, but control aphids as they can spread other viruses."]
+        }
+    },
+    "Strawberry___Leaf_scorch": {
+        "description": "A fungal disease causing irregular purplish blotches on strawberry leaves.",
+        "steps": [
+            "Use resistant varieties like Allstar, Earliglow, or Jewel.",
+            "Remove and destroy infected leaves during and after the growing season.",
+            "Practice crop rotation by establishing new beds every 3-4 years.",
+            "Improve air circulation by maintaining proper spacing and controlling weeds.",
+            "Renovate beds after harvest by mowing off old leaves."
+        ],
+        "fertilizer": {
+            "recommendation": "Apply fertilizer after renovation in the summer, not in the spring, to avoid promoting soft growth susceptible to disease.",
+            "products": ["Balanced 10-10-10 fertilizer"]
+        },
+        "irrigation": "Water early in the day so foliage has time to dry completely. Use drip irrigation.",
+        "pest_control": {
+            "pesticides": ["Captan", "Thiram", "Potassium bicarbonate"],
+            "insecticides": ["Not applicable for this fungal disease."]
+        }
+    },
+    "Strawberry___healthy": {
+        "description": "The strawberry plant appears to be healthy. The following are general care recommendations.",
+        "steps": [
+            "Renovate beds annually after harvest by mowing the leaves, narrowing the rows, and topdressing with compost.",
+            "Use mulch (like straw) to conserve moisture, suppress weeds, and keep ripening fruits clean.",
+            "Replace plants every 3-4 years for maximum productivity and to reduce disease buildup.",
+            "Protect blossoms from late spring frosts with row covers."
+        ],
+        "fertilizer": {
+            "recommendation": "Fertilize after renovation in summer and again in late fall. Avoid heavy spring fertilization.",
+            "products": ["Balanced 10-10-10 fertilizer", "Compost"]
+        },
+        "irrigation": "Provide 1-2 inches of water per week, especially during runner production and fruit development. The root system is shallow.",
+        "pest_control": {
+            "pesticides": ["Sulfur can be used to prevent powdery mildew."],
+            "insecticides": ["Insecticidal soap for aphids and spider mites", "Spinosad for fruit worms."]
+        }
+    },
+    "Tomato___Bacterial_spot": {
+        "description": "A bacterial disease causing small, water-soaked spots on tomato leaves and fruit.",
+        "steps": [
+            "Use certified disease-free seeds and transplants.",
+            "Practice crop rotation with non-host crops for 2-3 years.",
+            "Space plants properly to ensure good air circulation and fast drying.",
+            "Apply mulch to prevent bacteria from splashing from the soil onto the plants.",
+            "Sanitize stakes, cages, and tools."
+        ],
+        "fertilizer": {
+            "recommendation": "Avoid over-fertilizing with nitrogen. Ensure adequate calcium levels.",
+            "products": ["Low-nitrogen fertilizer like 5-10-10", "Calcium nitrate"]
+        },
+        "irrigation": "Use drip irrigation or soaker hoses to keep foliage dry. Water in the morning.",
+        "pest_control": {
+            "pesticides": ["Copper-based bactericides (often mixed with mancozeb for better efficacy)", "Actigard (plant activator)"],
+            "insecticides": ["Not applicable for this bacterial disease."]
+        }
+    },
+    "Tomato___Leaf_Mold": {
+        "description": "A fungal disease of tomatoes, common in greenhouses, that causes pale green or yellow spots on the upper leaf surface and olive-green mold on the underside.",
+        "steps": [
+            "Reduce humidity by ensuring proper spacing and good ventilation, especially in greenhouses.",
+            "Use resistant varieties like Bush Beefsteak or Valley Girl.",
+            "Water at the base of plants to avoid wetting foliage.",
+            "Remove and destroy infected leaves promptly.",
+            "Prune lower leaves to increase airflow."
+        ],
+        "fertilizer": {
+            "recommendation": "Maintain balanced nutrition to keep plants vigorous.",
+            "products": ["Balanced 10-10-10 or 8-16-16 fertilizer"]
+        },
+        "irrigation": "Water early in the day using drip irrigation to minimize leaf wetness and humidity.",
+        "pest_control": {
+            "pesticides": ["Chlorothalonil", "Mancozeb", "Copper-based fungicides", "Neem oil"],
+            "insecticides": ["Not applicable for this fungal disease."]
+        }
+    },
+    "Tomato___Septoria_leaf_spot": {
+        "description": "A common fungal disease of tomatoes causing numerous small spots with dark borders and tan centers on the leaves.",
+        "steps": [
+            "Remove and destroy infected lower leaves as they appear.",
+            "Apply mulch to create a barrier between the soil and the plant leaves.",
+            "Practice crop rotation with non-host crops for at least 3 years.",
+            "Stake or cage plants to improve air circulation.",
+            "Sanitize tools and cages at the end of the season."
+        ],
+        "fertilizer": {
+            "recommendation": "Ensure the plant is well-fed but avoid excessive nitrogen.",
+            "products": ["5-10-5 or 5-10-10 fertilizer"]
+        },
+        "irrigation": "Use drip irrigation or a soaker hose. Avoid overhead watering to keep leaves dry.",
+        "pest_control": {
+            "pesticides": ["Chlorothalonil", "Mancozeb", "Copper fungicide", "Neem oil"],
+            "insecticides": ["Not applicable for this fungal disease."]
+        }
+    },
+    "Tomato___Spider_mites Two-spotted_spider_mite": {
+        "description": "A common pest of tomatoes, spider mites cause stippling on leaves and can create fine webbing on the plant.",
+        "steps": [
+            "Spray plants with a strong jet of water, especially on the underside of leaves, to dislodge mites.",
+            "Release predatory mites (Phytoseiulus persimilis) as a biological control.",
+            "Avoid broad-spectrum insecticides that kill natural mite predators.",
+            "Remove heavily infested leaves or plants.",
+            "Increase humidity, as mites thrive in hot, dry conditions."
+        ],
+        "fertilizer": {
+            "recommendation": "Healthy plants are more tolerant. Avoid drought stress, which favors mite outbreaks.",
+            "products": ["Balanced fertilizer", "Liquid seaweed extract to help with stress."]
+        },
+        "irrigation": "Maintain consistent soil moisture. Periodically hosing down the plant can help control mite populations.",
+        "pest_control": {
+            "pesticides": ["This is a pest, not a disease. Use miticides if necessary."],
+            "insecticides": ["Abamectin", "Bifenazate", "Horticultural oil", "Insecticidal soap (effective on contact)"]
+        }
+    },
+    "Tomato___Target_Spot": {
+        "description": "A fungal disease causing small, water-soaked spots that develop into larger lesions with distinct concentric rings, resembling a target.",
+        "steps": [
+            "Remove and destroy infected leaves and fruits.",
+            "Stake or cage plants to improve air circulation and keep fruit off the ground.",
+            "Practice crop rotation with non-host crops.",
+            "Apply mulch to prevent soil splashing onto plants.",
+            "Follow a preventative fungicide spray program."
+        ],
+        "fertilizer": {
+            "recommendation": "Maintain balanced nutrition. Ensure adequate potassium.",
+            "products": ["Balanced 10-10-10 fertilizer", "Sulfate of Potash"]
+        },
+        "irrigation": "Water at the soil level using drip irrigation. Keep foliage as dry as possible.",
+        "pest_control": {
+            "pesticides": ["Chlorothalonil", "Azoxystrobin", "Mancozeb"],
+            "insecticides": ["Not applicable for this fungal disease."]
+        }
+    },
+    "Tomato___Tomato_Yellow_Leaf_Curl_Virus": {
+        "description": "A viral disease transmitted by whiteflies, causing severe stunting, upward curling of leaves, and yellowing of leaf margins.",
+        "steps": [
+            "Use resistant varieties like Tycoon, Security, or Talladega.",
+            "Remove and destroy infected plants promptly to reduce the source of the virus.",
+            "Use reflective (silver) mulches to repel whiteflies.",
+            "Use floating row covers to exclude whiteflies from young plants.",
+            "Manage weeds in and around the garden, as they can host whiteflies."
+        ],
+        "fertilizer": {
+            "recommendation": "Provide balanced nutrition to support the plant, but there is no fertilizer cure for the virus.",
+            "products": ["Balanced liquid feed"]
+        },
+        "irrigation": "Maintain consistent moisture to support stressed plants.",
+        "pest_control": {
+            "pesticides": ["There is no cure for the virus. Control is focused on the insect vector."],
+            "insecticides": ["Imidacloprid (systemic, applied to soil)", "Neem oil", "Insecticidal soap", "Pyrethrin", "Spinosad"]
+        }
+    },
+    "Tomato___Tomato_mosaic_virus": {
+        "description": "A viral disease causing mottled light and dark green patterns on tomato leaves, often leading to stunted growth.",
+        "steps": [
+            "Use certified virus-free seeds and transplants.",
+            "Disinfect tools, stakes, and hands regularly with a bleach solution or milk.",
+            "Remove and destroy infected plants immediately.",
+            "Avoid smoking (cigarettes/tobacco) around tomato plants as tobacco can carry the virus.",
+            "Control aphids, which can transmit the virus."
+        ],
+        "fertilizer": {
+            "recommendation": "There is no fertilizer cure. Focus on balanced nutrition for overall plant health.",
+            "products": ["General purpose 10-10-10 fertilizer"]
+        },
+        "irrigation": "Provide regular watering to prevent stress.",
+        "pest_control": {
+            "pesticides": ["There is no cure for the virus. Control is focused on prevention and vector management."],
+            "insecticides": ["Insecticidal soap or Neem oil to control aphid populations."]
+        }
+    }
+}
