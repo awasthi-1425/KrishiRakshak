@@ -12,7 +12,6 @@
 ## 🚀 Live Demo & Deployment
 
 🔗 **Live Platform Link:** [https://krishirakshak-app.netlify.app/](https://krishirakshak-app.netlify.app/) 
-📄 **API Documentation (Swagger UI):** [https://your-krishirakshak-domain.vercel.app/docs](https://your-krishirakshak-domain.vercel.app/docs)
 
 ---
 
